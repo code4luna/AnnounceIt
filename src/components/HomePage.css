@@ -1,0 +1,72 @@
+.homepage {
+    padding: 40px;
+  }
+  
+  .homepage-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .homepage-section {
+    margin-bottom: 40px;
+  }
+  
+  .homepage-section h2 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .homepage-section p {
+    font-size: 16px;
+  }
+
+  .faq-page {
+    padding: 40px;
+  }
+  
+  .faq-section {
+    margin-bottom: 40px;
+  }
+  
+  .faq-item {
+    margin-bottom: 20px;
+  }
+  
+  .faq-item h3 {
+    margin-bottom: 10px;
+  }
+  
+  .faq-item p {
+    margin: 0;
+  }
+  
+  .create-announcement-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .create-announcement-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create-announcement-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .event-card img {
+    max-width: 27%;
+    height: auto;
+  }
+  
+  .carousel img {
+    width: 60%;
+    height: auto;
+  }
